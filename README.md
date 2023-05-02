@@ -1,5 +1,3 @@
-# AiMapPro README
-
 ## 关于AiMapPro
 
 AiMapPro是一款简单易用的AI辅助工具，旨在降低人工智能技术的使用门槛，助力推动AI的普及与应用。
